@@ -6,4 +6,7 @@
 **Data:** 01/12/2025
 
 Este repositório contém a resolução da Avaliação 2.
-O arquivo principal com a execução do código e análises é o 'Resolucao Avalicao 2.ipynb'.
+
+### Arquivos do repositório:
+* **Resolucao Avalicao 2.ipynb**: Notebook principal com a execução do código, modelos e análises.
+* **sneeze5.csv**: Base de dados utilizada para a realização dos exercícios.
