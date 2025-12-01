@@ -2,7 +2,7 @@
 
 ### Avaliação 2
 
-**Aluno:** [Seu Nome Completo]
+**Aluno:** Victor Andreas Iwanaga
 **Data:** 01/12/2025
 
 Este repositório contém a resolução da Avaliação 2.
