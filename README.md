@@ -30,11 +30,15 @@ Modelar uma variável de contagem (**nsneeze**: número de espirros) a partir de
   - **erro preditivo da média** (EQM/EAM), que pode ser competitivo mesmo com Poisson.
 
 ## 🧰 Bibliotecas
-Python, pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn.
+Python, pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn, jupyter.
 
 ## 📂 Arquivos
 - `Resolucao Avalicao 2.ipynb` — notebook principal (EDA, modelagem, diagnósticos e predição)
-- `sneeze5.csv` — dataset (ou referência ao link público)
+- `requirements.txt` — dependências do projeto
+- `sneeze5.csv` — dataset (se preferir, pode usar o link público abaixo)
+
+## 🔗 Dados (link público)
+https://raw.githubusercontent.com/cibelerusso/Datasets/refs/heads/main/sneeze5.csv
 
 ## ▶️ Como executar
 1) Clone o repositório:
